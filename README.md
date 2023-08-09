@@ -4,6 +4,10 @@ A collaborative RPG sourcebook for fantasy games made using GitConsensus.
 
 The purpose of this project is to provide writers and RPG players with content to work off of that isn't part of a larger franchise (Forgotten Realms and Middle-earth for example.)
 
+## [Vote on pull requests here](https://github.com/OpenSettingBooks/Fantasy/pulls)
+
+![](https://www.gitconsensus.com/static/6a4c0d770b6e7a65be7deb9d5f9d54b0/774d6/votes.png)
+
 ## [Submit and discuss ideas here](https://github.com/OpenSettingBooks/Fantasy/issues)
 
 # How to Contribute
