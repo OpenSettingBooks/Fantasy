@@ -10,4 +10,5 @@ The purpose of this project is to provide writers and RPG players with content t
 
 * [Fork](https://github.com/OpenSettingBooks/Fantasy/fork) this repository.
 * Make your changes using the _Add files_ button on your repo's webpage or the edit button on existing markdown files.
+* On your repo page, click the Contribute button next to the "This branch is X commits ahead..." message and submit.
 * You're done! People can now vote on whether to merge your pull request.
