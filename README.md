@@ -6,6 +6,8 @@ The purpose of this project is to provide writers and RPG players with content t
 
 ## [Vote on pull requests here](https://github.com/OpenSettingBooks/Fantasy/pulls)
 
+Vote by reacting to the pull request with emojis.
+
 ![](https://www.gitconsensus.com/static/6a4c0d770b6e7a65be7deb9d5f9d54b0/774d6/votes.png)
 
 ## [Submit and discuss ideas here](https://github.com/OpenSettingBooks/Fantasy/issues)
