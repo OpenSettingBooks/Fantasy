@@ -9,7 +9,6 @@ The purpose of this project is to provide writers and RPG players with content t
 # How to Contribute
 
 * [Fork](https://github.com/OpenSettingBooks/Fantasy/fork) this repository.
-* Install [Github Desktop](https://desktop.github.com/) and do _File > Clone directory_ and use the link to your personal fork.
-* Make your changes. Then, commit the changes and push them to your repo using Github Desktop.
-* In Github Desktop, do _Branch > Create pull request_.
+* Make your changes using the _Add files_ button on your repo's webpage or the edit button on existing markdown files.
+* On your repo page, click the Contribute button next to the "This branch is X commits ahead..." message and submit.
 * You're done! People can now vote on whether to merge your pull request.
