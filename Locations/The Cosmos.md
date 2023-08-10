@@ -6,8 +6,8 @@ One of those occurrence seems to be quite permanent and is the best explanation 
 
 Those following leafs are known in academic circles:
 
-- The [[The Fae Realm|Fae Realm]]
-- The [[The Primary Realm|Primary Realm]]
-- The [[The Far Realm|Far Realm]]
+- [The Fae Realm](The%20Fae%20Realm.md)
+- [The Primary Realm](The%20Primary%20Realm.md)
+- [The Far Realm](The%20Far%20Realm.md)
 
 But, there are certainly hundreds if not thousands other leafs, that float on the cosmic sea.
