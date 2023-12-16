@@ -2,7 +2,7 @@
 
 A collaborative RPG sourcebook for fantasy games made using GitConsensus.
 
-The purpose of this project is to provide writers and RPG players with content to work off of that isn't part of a larger franchise (Forgotten Realms and Middle-earth for example.)
+The purpose of this project is to provide writers and RPG players with content to work off of that isn't part of a copyrighted franchise (Forgotten Realms and Middle-earth for example.)
 
 All contributions are welcome, whether they're encyclopedia style articles, random dice tables, short stories, poems, or anything else.
 
