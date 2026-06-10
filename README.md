@@ -8,7 +8,13 @@ All contributions are welcome, whether they're encyclopedia style articles, rand
 
 ## 📝 [Vote on pull requests here](https://github.com/OpenSettingBooks/Fantasy/pulls)
 
-Vote by reacting to the pull request with emojis.
+Vote by reacting to the pull request with emojis. The convention is:
+
+- **👍** or **✅** — Yes, approve this change
+- **👎** or **❌** — No, reject this change
+- **👀** or **🤷** — Abstain / neutral
+
+
 
 ![](https://www.gitconsensus.com/static/6a4c0d770b6e7a65be7deb9d5f9d54b0/774d6/votes.png)
 
