@@ -11,7 +11,7 @@ extra_labels: false
 
 pull_requests:
 
-  # At least three people should sign off on any pull request.
+  # At least two people should sign off on any pull request.
   quorum: 2
 
   # Required percentage of "yes" votes (ignoring abstentions). It's a good idea to give "no" votes more power.
