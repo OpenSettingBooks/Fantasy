@@ -1,3 +1,4 @@
 ---
-aliases: Dwarves
+aliases: [Dwarves]
+status: stub
 ---
