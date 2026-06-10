@@ -1,5 +1,5 @@
 ---
-alias: World
+aliases: [World]
 location: cosmos
 ---
 # The Primary Realm
