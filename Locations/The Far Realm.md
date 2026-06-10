@@ -1,5 +1,5 @@
 ---
-alias: Afterlife
+aliases: [Afterlife]
 location: cosmos
 ---
 # The Far Realm
