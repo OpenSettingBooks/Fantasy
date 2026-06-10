@@ -1,5 +1,5 @@
 ---
-aliases: Anguils
+aliases: [Anguils]
 ---
 # Anguil
 

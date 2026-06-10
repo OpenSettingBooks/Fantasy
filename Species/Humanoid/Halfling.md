@@ -1,3 +1,4 @@
 ---
-aliases: Halflings
+aliases: [Halflings]
+status: stub
 ---
